@@ -10,7 +10,7 @@ print('I\'m thinking of a number between 1 and 100. ')
 def game():
     # generate random number between 1 and 100
     generated_num = random.randint(1, 100)
-    print(f'Generated number is {generated_num}. ')
+    # print(f'Generated number is {generated_num}. ')
 
 
     # ask to select difficulty
